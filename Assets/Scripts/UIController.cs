@@ -4,19 +4,19 @@ using UnityEngine;
 
 public class UIController : MonoBehaviour
 {
-    [SerializeField] CanvasGroup ui;
+    [SerializeField] GameObject ui;
 
     public void _ShowHideUI()
     {
         if (ui != null)
         {
-            if (ui.alpha == 0)
+            if (ui.activeSelf)
             {
-                ui.alpha = 1;
+                ui.SetActive(false);
             }
             else
             {
-                ui.alpha = 0;
+                ui.SetActive(true);
             }
         }
     }
