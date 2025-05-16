@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/AR RealState.unity
+  - enabled: 0
+    path: Assets/Scenes/AR RealState Image.unity
     guid: 970056faf92c4f54c825427f54cc2194
+  - enabled: 1
+    path: Assets/Scenes/AR RealState World.unity
+    guid: cc81ff81971547149a44103fca697886
   m_configObjects: {}
