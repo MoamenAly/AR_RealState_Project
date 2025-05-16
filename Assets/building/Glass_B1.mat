@@ -107,9 +107,9 @@ Material:
     - _DstBlendAlpha: 10
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.874
+    - _Glossiness: 0.912
     - _GlossyReflections: 1
-    - _Metallic: 0.366
+    - _Metallic: 0.669
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
