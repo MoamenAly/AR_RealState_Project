@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class URLController : MonoBehaviour
 {
-    public const string TALEEL1_URL = "";
-    public const string TALEEL2_URL = "";
-    public const string ZAHYA1_URL = "";
-    public const string ZAHYA2_URL = "";
+    public const string TALEEL1_URL = "https://moamen-aliiiiiiii.itch.io/taleel-1";
+    public const string TALEEL2_URL = "https://moamen-aliiiiiiii.itch.io/taleel-2";
+    public const string ZAHYA1_URL = "https://moamen-aliiiiiiii.itch.io/zahya-1";
+    public const string ZAHYA2_URL = "https://moamen-aliiiiiiii.itch.io/zahya-2";
 
     public void OpenTaleel1_URL()
     { 
